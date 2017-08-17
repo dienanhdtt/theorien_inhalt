@@ -2,7 +2,11 @@
 background-image: url("../Bilder/Hintergrund3.jpg");
 }
 
-body{
+h1{
   font-family:Monotype Corsiva;
   font-size: 48px;
+}
+
+.jumbotron{
+  background-color: beige;
 }
